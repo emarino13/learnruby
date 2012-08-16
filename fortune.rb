@@ -1,7 +1,8 @@
 class Fortune
 
-  def initalize
-    @fortune = ["This is a great day!",
+  def initialize
+    @fortune = [
+                "This is a great day!",
                 "Dark clouds are above.",
                 "Try again tomorrow.",
                ]
